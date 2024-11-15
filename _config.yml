@@ -1,1 +1,11 @@
+title: Minerva Blog
+author:
+  name: Minerva Design
+
 theme: minima
+
+header_pages:
+  - about.md
+
+minima:
+  skin: auto
