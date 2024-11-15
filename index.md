@@ -1,4 +1,4 @@
 ---
-title: Minerva
 layout: home
+title: Blog
 ---
