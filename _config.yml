@@ -1,11 +1,9 @@
 title: Minerva Blog
 author:
   name: Minerva Design
+  email:
 
 theme: minima
-
-header_pages:
-  - about.md
 
 minima:
   skin: auto
